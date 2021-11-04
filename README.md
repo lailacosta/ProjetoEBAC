@@ -1,4 +1,6 @@
-# ProjetoEBAC
+# ProjetoEBAC  -- Remover uma transação de entrada
+
+
 
 describe("DevFinance", function() {
     it("Remover uma transação de entrada", function() {
